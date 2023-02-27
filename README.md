@@ -1,0 +1,2 @@
+# StudentMgmCpp
+Student Management System 
